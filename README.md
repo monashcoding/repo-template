@@ -19,9 +19,9 @@ Steps on how to run your project
 
 ## Contributing
 
-If you think this could be better, please [open an issue](https://github.com/monashcode/repo-template/issues/new)!
+If you think this could be better, please [open an issue](https://github.com/monashcoding/repo-template/issues/new)!
 
-Please note that all interactions in [@MonashCode](https://github.com/monashcode) fall under our [Code of Conduct](CODE_OF_CONDUCT.md).
+Please note that all interactions in [@monashcoding](https://github.com/monashcoding) fall under our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## License
 
